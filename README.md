@@ -1,9 +1,7 @@
-<!-- Please update value in the {}  -->
-
 <h1 align="center">notFound</h1>
 
 <div align="center">
-   Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
+   Solução para um desafio de  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
 </div>
 
 <div align="center">
@@ -24,52 +22,36 @@
 
 <!-- TABLE OF CONTENTS -->
 
-## Table of Contents
+## Índices
 
-- [Overview](#overview)
-  - [Built With](#built-with)
-- [Features](#features)
-- [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
+- [Geral](#geral)
+  - [Tecnologias](#tecnologias)
+- [Funcionalidade](#funcionalidade)
+- [Contato](#contato)
 
 <!-- OVERVIEW -->
 
-## Overview
+## Geral
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![Captura de tela de 2021-12-21 02-47-25](https://user-images.githubusercontent.com/54549125/146878203-b00ca82f-8972-47cf-9676-763afcf71ce0.png)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
-
-- Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
-
-### Built With
-
-<!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
-
-- [React](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Tailwind](https://tailwindcss.com/)
-
-## Features
-
-<!-- List the features of your application or follow the template. Don't share the figma file here :) -->
-
-This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) was to build an application to complete the given user stories.
+![Captura de tela de 2021-12-21 02-32-28](https://user-images.githubusercontent.com/54549125/146876716-d39d1a10-d9cd-4700-a94d-8dc567ecf57e.png)
 
 
-## Acknowledgements
+- Onde posso ver sua demonstração?
+- Qual foi sua experiência? Consegui praticar alguns conceitos de CSS
+- O que você aprendeu / melhorou? Aprendi um pouco sobre o Figma
 
-<!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
+### Tecnologias
 
-- [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
+- HTML
+- CSS
 
-## Contact
+## Funcionalidade
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+Este aplicativo / site foi criado como uma submissão a [DevChallenges](https://devchallenges.io/challenges) desafio. O [desafio](https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY) era construir uma página estática de erro 404 not found.
+
+## Contato
+
+- GitHub [@YuriSalesdeOliveira](https://github.com/YuriSalesdeOliveira)
+- Linkedin [@Yuri Oliveira](https://www.linkedin.com/in/yuri-oliveira-0703801a2/)
