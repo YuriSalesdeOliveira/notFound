@@ -33,10 +33,10 @@
 
 ## Geral
 
-![Captura de tela de 2021-12-21 02-47-25](https://user-images.githubusercontent.com/54549125/146878203-b00ca82f-8972-47cf-9676-763afcf71ce0.png)
-
-![Captura de tela de 2021-12-21 03-33-59](https://user-images.githubusercontent.com/54549125/146883115-76d6add2-6247-4e68-9b74-6a1526cb1ea2.png)
-
+<div>
+   <img src="https://user-images.githubusercontent.com/54549125/146878203-b00ca82f-8972-47cf-9676-763afcf71ce0.png" height="450"/>
+   <img src="https://user-images.githubusercontent.com/54549125/146883115-76d6add2-6247-4e68-9b74-6a1526cb1ea2.png" height="450"/>
+</div>
 
 - Onde posso ver sua demonstração? [Click aqui](https://yurisalesdeoliveira.github.io/notFound/)
 - Qual foi sua experiência? Consegui praticar alguns conceitos de CSS
